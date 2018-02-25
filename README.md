@@ -6,6 +6,7 @@
 
 * [Google Chrome](https://www.google.com/chrome/)
   * [Adblock Plus](https://chrome.google.com/webstore/detail/adblock-plus/cfhdojbkjhnklbpkdaibdccddilifddb)
+  * [FlowCrypt](https://chrome.google.com/webstore/detail/flowcrypt-encrypt-gmail-w/bnjglocicdkmhmoohhfkfkbbkejdhdgc)
   * [LastPass](https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd)
 * [iTunes](https://www.apple.com/itunes/)
 * [Spotify](https://www.spotify.com/)
