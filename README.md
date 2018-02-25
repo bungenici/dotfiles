@@ -23,6 +23,7 @@
 * [Google Keep](https://itunes.apple.com/app/google-keep/id1029207872)
 * [Google Maps](https://itunes.apple.com/app/google-maps-gps-navigation/id585027354)
 * [Google Translate](https://itunes.apple.com/app/google-translate/id414706506)
+* [LastPass](https://itunes.apple.com/app/lastpass-password-manager/id324613447)
 * [Messenger](https://itunes.apple.com/app/messenger/id454638411)
 * [Netflix](https://itunes.apple.com/app/netflix/id363590051)
 * [Shazam](https://itunes.apple.com/app/shazam/id284993459)
