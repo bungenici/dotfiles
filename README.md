@@ -23,3 +23,4 @@
 * [Shazam](https://itunes.apple.com/app/shazam/id284993459)
 * [Spotify](https://itunes.apple.com/app/spotify-music/id324684580)
 * [VLC for Mobile](https://itunes.apple.com/app/apple-store/id650377962)
+* [WhatsApp](https://itunes.apple.com/app/whatsapp-messenger/id310633997)
