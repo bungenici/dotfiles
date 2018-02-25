@@ -20,5 +20,6 @@
 
 * [Facebook](https://itunes.apple.com/app/facebook/id284882215)
 * [Messenger](https://itunes.apple.com/app/messenger/id454638411)
+* [Shazam](https://itunes.apple.com/app/shazam/id284993459)
 * [Spotify](https://itunes.apple.com/app/spotify-music/id324684580)
 * [VLC for Mobile](https://itunes.apple.com/app/apple-store/id650377962)
