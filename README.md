@@ -6,6 +6,7 @@
 
 * [Google Chrome](https://www.google.com/chrome/)
   * [Adblock Plus](https://chrome.google.com/webstore/detail/adblock-plus/cfhdojbkjhnklbpkdaibdccddilifddb)
+  * [Docs](https://chrome.google.com/webstore/detail/docs/aohghmighlieiainnegkcijnfilokake)
   * [FlowCrypt](https://chrome.google.com/webstore/detail/flowcrypt-encrypt-gmail-w/bnjglocicdkmhmoohhfkfkbbkejdhdgc)
   * [Google Docs Offline](https://chrome.google.com/webstore/detail/google-docs-offline/ghbmnnjooekpmoecnnnilnnbdlolhkhi)
   * [LastPass](https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd)
