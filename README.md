@@ -11,6 +11,7 @@
   * [Google Docs Offline](https://chrome.google.com/webstore/detail/google-docs-offline/ghbmnnjooekpmoecnnnilnnbdlolhkhi)
   * [LastPass](https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd)
   * [Sheets](https://chrome.google.com/webstore/detail/sheets/felcaaldnbdncclmgdcncolpebgiejap)
+  * [Slides](https://chrome.google.com/webstore/detail/slides/aapocclcgogkmnckokdopfmhonfmgoek)
 * [iTunes](https://www.apple.com/itunes/)
 * [Spotify](https://www.spotify.com/)
 * [VLC media player](http://www.videolan.org/vlc/)
