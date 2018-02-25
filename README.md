@@ -4,6 +4,7 @@
 
 ### Deskop
 
+* [Backup and Sync](https://www.google.com/drive/download/)
 * [Google Chrome](https://www.google.com/chrome/)
   * [Adblock Plus](https://chrome.google.com/webstore/detail/adblock-plus/cfhdojbkjhnklbpkdaibdccddilifddb)
   * [Docs](https://chrome.google.com/webstore/detail/docs/aohghmighlieiainnegkcijnfilokake)
