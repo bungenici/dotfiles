@@ -20,6 +20,7 @@
 
 * [Facebook](https://itunes.apple.com/app/facebook/id284882215)
 * [Google Drive](https://itunes.apple.com/app/google-drive/id507874739)
+* [Google Keep](https://itunes.apple.com/app/google-keep/id1029207872)
 * [Google Maps](https://itunes.apple.com/app/google-maps-gps-navigation/id585027354)
 * [Google Translate](https://itunes.apple.com/app/google-translate/id414706506)
 * [Messenger](https://itunes.apple.com/app/messenger/id454638411)
