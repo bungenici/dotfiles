@@ -1,1 +1,7 @@
 # dotfiles
+
+## Applications
+
+### Deskop
+
+### Mobile
