@@ -5,6 +5,7 @@
 ### Deskop
 
 * [Google Chrome](https://www.google.com/chrome/)
+* [iTunes](https://www.apple.com/itunes/)
 * [Spotify](https://www.spotify.com/)
 * [VLC media player](http://www.videolan.org/vlc/)
 
