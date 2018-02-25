@@ -21,6 +21,7 @@
 * [Facebook](https://itunes.apple.com/app/facebook/id284882215)
 * [Google Drive](https://itunes.apple.com/app/google-drive/id507874739)
 * [Google Maps](https://itunes.apple.com/app/google-maps-gps-navigation/id585027354)
+* [Google Translate](https://itunes.apple.com/app/google-translate/id414706506)
 * [Messenger](https://itunes.apple.com/app/messenger/id454638411)
 * [Shazam](https://itunes.apple.com/app/shazam/id284993459)
 * [Spotify](https://itunes.apple.com/app/spotify-music/id324684580)
